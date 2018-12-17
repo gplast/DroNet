@@ -1,7 +1,7 @@
 # [DroNet: Efficient Convolutional Neural Network Detector for Real-Time UAV Applications](Paper/DroNet.pdf)
 Implementation of the CNN Car Detector proposed on DroNet paper using [DarkNet](https://github.com/pjreddie/darknet) Framework.
 
-[![DroNet Performance CPU](Car_Parking.mov)](Car_Parking.mov)
+[![DroNet Performance CPU](https://github.com/gplast/DroNet/blob/master/Car_Parking.mov)](https://github.com/gplast/DroNet/blob/master/Car_Parking.mov)
 
 
 ## Dependencies
